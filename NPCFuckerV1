@@ -1,0 +1,2 @@
+--Credits to Halloween_Gaster#2824 for making the AutoKill NPCs Script.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGiver69/IWannaSeeYouJiggleForSure/a68619c1b813adb8ea37159e9f756f5442f8cc8a/NPCFuckerV1.txt"))()
